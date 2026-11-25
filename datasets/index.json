@@ -1,0 +1,184 @@
+{
+  "spambase": {
+    "path": "datasets/raw/paper/spambase.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "ionosphere": {
+    "path": "datasets/raw/paper/ionosphere.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "glass1": {
+    "path": "datasets/raw/paper/glass1.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "ecoli-0_vs_1": {
+    "path": "datasets/raw/paper/ecoli-0_vs_1.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "wisconsin": {
+    "path": "datasets/raw/paper/wisconsin.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "glass0": {
+    "path": "datasets/raw/paper/glass0.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "haberman": {
+    "path": "datasets/raw/paper/haberman.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "vehicle1": {
+    "path": "datasets/raw/paper/vehicle1.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "vehicle0": {
+    "path": "datasets/raw/paper/vehicle0.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "new-thyroid1": {
+    "path": "datasets/raw/paper/new-thyroid1.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "ecoli2": {
+    "path": "datasets/raw/paper/ecoli2.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "segment0": {
+    "path": "datasets/raw/paper/segment0.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "yeast3": {
+    "path": "datasets/raw/paper/yeast3.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "ecoli3": {
+    "path": "datasets/raw/paper/ecoli3.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "page-blocks0": {
+    "path": "datasets/raw/paper/page-blocks0.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "yeast-2_vs_4": {
+    "path": "datasets/raw/paper/yeast-2_vs_4.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "vowel0": {
+    "path": "datasets/raw/paper/vowel0.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "glass2": {
+    "path": "datasets/raw/paper/glass2.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "ecoli-0-1-4-6_vs_5": {
+    "path": "datasets/raw/paper/ecoli-0-1-4-6_vs_5.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "glass4": {
+    "path": "datasets/raw/paper/glass4.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "abalone9-18": {
+    "path": "datasets/raw/paper/abalone9-18.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "dermatology-6": {
+    "path": "datasets/raw/paper/dermatology-6.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "glass5": {
+    "path": "datasets/raw/paper/glass5.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "yeast4": {
+    "path": "datasets/raw/paper/yeast4.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "poker-8-9_vs_6": {
+    "path": "datasets/raw/paper/poker-8-9_vs_6.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  },
+  "poker-8_vs_6": {
+    "path": "datasets/raw/paper/poker-8_vs_6.csv",
+    "header": null,
+    "target_column": -1,
+    "available": true,
+    "paper_table_2": true
+  }
+}
